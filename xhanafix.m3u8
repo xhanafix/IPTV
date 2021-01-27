@@ -77,3 +77,6 @@ http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 #EXTINF:402, tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/hbotips.jpg" tvg-name="HBO HITS"  group-title="MOVIES",HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+
+#EXTINF:403, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" tvg-name="CINEMAX"  group-title="MOVIES",CINEMAX
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
