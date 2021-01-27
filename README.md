@@ -14,9 +14,7 @@ If people want to use the file for personal use, I think its fine, but if anyone
 
 
 Terima kasih daun keladi kepada orang orang ini
-1. Hafíz Hamzah
-2.
-3.
-4. 
+1. https://github.com/iptv-org/iptv
+2. Hafíz Hamzah
 
 contact me on my fb page https://fb.com/xhanafixdotcom or twitter at https://twitter.com/suami_z
