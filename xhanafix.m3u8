@@ -71,3 +71,9 @@ http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" tvg-country="TH" tvg-url="" group-title="",Channel 8 Thailand
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+#EXTINF:401, tvg-id="" tvg-logo="https://deadline.com/wp-content/uploads/2018/12/hbo-asia-logo__140308044106.jpg" tvg-name="HBO ASIA"  group-title="MOVIES",HBO ASIA
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+
+#EXTINF:402, tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/hbotips.jpg" tvg-name="HBO HITS"  group-title="MOVIES",HBO HITS
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
