@@ -19,4 +19,4 @@ Terima kasih daun keladi kepada orang orang ini
 3.
 4. 
 
-contact me at my fb page https://fb.com/xhanafixdotcom or twitter at https://twitter.com/suami_z
+contact me on my fb page https://fb.com/xhanafixdotcom or twitter at https://twitter.com/suami_z
