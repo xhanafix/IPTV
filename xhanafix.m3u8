@@ -54,3 +54,17 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m
 #EXTINF:117, tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-name="ASTRO NAURA"  group-title="MALAYSIA",ASTRO NAURA
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
+#EXTINF:801, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_160.png" tvg-name="Astro Supersport 1"  group-title="Sport",Astro Supersport 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+
+#EXTINF:803, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_160.png" tvg-name="Astro Supersport 3"  group-title="Sport",Astro Supersport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
+#EXTINF:T103, tvg-id="" tvg-logo="https://www.ch3thailand.com/assets/images/Logo-CH3-v1.svg" tvg-name="CH3"  group-title="THAI",CH3
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+
+#EXTINF:T105, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_tv5.png/360px-Logo_tv5.png" tvg-name="CH5"  group-title="THAI",CH5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+
+#EXTINF:T107, tvg-id="" tvg-logo="https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png" tvg-name="CH7"  group-title="THAI",CH7
+http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
