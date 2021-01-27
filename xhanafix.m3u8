@@ -67,7 +67,7 @@ http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:T107, tvg-id="" tvg-logo="https://static.ch7.com/images/theme2019/icon/ic_logo_ch7hd.png" tvg-name="CH7"  group-title="THAI",CH7
-https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
+http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" tvg-country="TH" tvg-url="" group-title="",Channel 8 Thailand
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
