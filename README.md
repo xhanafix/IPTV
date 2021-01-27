@@ -1,5 +1,5 @@
-# IPTV
-IPTV
+# xhanafix IPTV
+xhanafix IPTV
 A compilation on Malaysia m3u8 plus some additional channel that i found over the internet. If in anyway, im using your m3u8 without your consent, kindly get in touch with me and i will remove it.
 
 Dont ask for an ETA, im doing these on my freetime and as a hobby. Plus bini aku kaki drama suka tengok TV
