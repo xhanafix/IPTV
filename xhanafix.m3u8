@@ -80,3 +80,43 @@ http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 
 #EXTINF:403, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" tvg-name="CINEMAX"  group-title="MOVIES",CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dstvguide.com/wp-content/uploads/2020/08/SuperSport-Football-Plus-Schedule.png" tvg-name="SUPERSPORT FOOTBAL PLUS HD"  group-title="SUPERSPORT",SUPERSPORT FOOTBAL PLUS HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2628
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png" tvg-name="SUPERSPORT FOOTBALL HD"  group-title="SUPERSPORT",SUPERSPORT FOOTBALL HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2631
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-golf.png" tvg-name="SUPERSPORT GOLF HD"  group-title="SUPERSPORT",SUPERSPORT GOLF HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2624
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dstvguide.com/wp-content/uploads/2020/08/SuperSport-Laliga-Schedule-guide-680x350.png" tvg-name="SUPERSPORT LALIGA HD"  group-title="SUPERSPORT",SUPERSPORT LALIGA HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2629
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport-live.png" tvg-name="SUPERSPORT MOTORSPORT HD"  group-title="SUPERSPORT",SUPERSPORT MOTORSPORT HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2623
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" tvg-name="SUPERSPORT PREMIER LEAGUE HD"  group-title="SUPERSPORT",SUPERSPORT PREMIER LEAGUE HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2630
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-rugby-live.png" tvg-name="SUPERSPORT RUGBY HD"  group-title="SUPERSPORT",SUPERSPORT RUGBY HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2626
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-tennis.png" tvg-name="SUPERSPORT TENNIS HD"  group-title="SUPERSPORT",SUPERSPORT TENNIS HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2627
+
+#EXTINF:551, tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" tvg-name="NATGEO"  group-title="LIFE",NATGEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+
+#EXTINF:552, tvg-id="" tvg-logo="https://www.adlinemedia.net/wp-content/uploads/MTV-Discovery-Channel-HD-800x321.jpg" tvg-name="DISCOVERY CHANNEL HD"  group-title="LIFE",DISCOVERY CHANNEL HD
+http://rv.therevenge.co:80/live/242424/242424/81012.m3u8
+
+#EXTINF:553, tvg-id="" tvg-logo="https://i.pinimg.com/originals/4c/c9/b6/4cc9b687b62e8f6410bb32939601f657.png" tvg-name="DISCOVERY FAMILY"  group-title="LIFE",DISCOVERY FAMILY
+http://rv.therevenge.co:80/565656/565656/81013
+
+#EXTINF:554, tvg-id="" tvg-logo="https://www.nicepng.com/png/full/134-1341779_discovery-life-channel-us-logo-discovery-life-channel.png" tvg-name="DISCOVERY LIFE"  group-title="LIFE",DISCOVERY LIFE
+http://rv.therevenge.co:80/live/242424/242424/81014.m3u8
+
+#EXTINF:555, tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/954/195/png-clipart-science-television-channel-discovery-channel-high-definition-television-discovery-inc-science-television-text.png" tvg-name="DISCOVERY SCIENCE HD"  group-title="LIFE",DISCOVERY SCIENCE HD
+http://rv.therevenge.co:80/live/242424/242424/81015.m3u8
+
