@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:1000, tvg-id="EPG N/A" tvg-logo="https://xhanafix.com/wp-content/uploads/2020/12/for-email-sign.jpg" tvg-name="IF YOU BOUGHT THIS PLAYLIST FROM 3rd PARTY, THEN YOU GOT SCAMMED"  group-title="MALAYSIA",xhanafix
-https://www.dropbox.com/s/6kdj003xcgfnvdv/outro.mp4
-
 #EXTINF:101, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
