@@ -4,19 +4,19 @@
 https://xhanafix.com/wp-content/uploads/2021/01/outro.mp4
 
 #EXTINF:101, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:102, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:106, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:104, tvg-id="" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" tvg-name="BERITA RTM"  group-title="MALAYSIA",BERITA RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
 #EXTINF:105, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-name="TV SUKAN"  group-title="MALAYSIA",TV SUKAN
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRh-oec04iMx1EBDoFEcLj0)/dm/3/x6qqja6/s/live-2.m3u8
