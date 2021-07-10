@@ -15,6 +15,8 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" group-title="MALAYSIA",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-name="ASTRO RIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="MALAYSIA",ASTRO RIA
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTINF:-1 tvg-name="ASTRO OASIS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAYSIA",ASTRO OASIS
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-name="ASTRO AWANI" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" group-title="MALAYSIA",ASTRO AWANI
@@ -111,3 +113,15 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS",Aniplus
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6697
+#EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://pbs.twimg.com/media/EzAAynBVUAoRRV6.jpg" group-title="SPORT",ASTRO ARENA
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannelHD.us" tvg-name="Tennis Channel HD" tvg-logo="https://i.imgur.com/wcmQ30R.png" group-title="SPORT",Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-name="Pluto TV Sports" tvg-logo="http://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="New",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="FoxSportspluto.us" tvg-name="Fox Sports pluto" tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="New",Pluto TV Fox Sports pluto (720p)
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" group-title="New",ESPN 2 (720p)
+http://164.68.124.111/espn2.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="New",ESPN (720p)
+http://stream2.grandma.fit/fs2.m3u8
