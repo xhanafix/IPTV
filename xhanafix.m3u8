@@ -111,8 +111,10 @@ http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-name="Boomerang ID" tvg-logo="https://logodix.com/logo/90948.png" group-title="KIDS",Boomerang
 http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS",Aniplus
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6697
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png" group-title="KIDS",Animax
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS",Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-name="ASTRO ARENA" tvg-logo="https://pbs.twimg.com/media/EzAAynBVUAoRRV6.jpg" group-title="SPORT",ASTRO ARENA
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannelHD.us" tvg-name="Tennis Channel HD" tvg-logo="https://i.imgur.com/wcmQ30R.png" group-title="SPORT",Tennis Channel HD
