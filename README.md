@@ -17,4 +17,4 @@ Terima kasih daun keladi kepada orang orang ini
 1. https://github.com/iptv-org/iptv
 2. Hafíz Hamzah
 
-contact me on my fb page https://fb.com/xhanafixdotcom or twitter at https://twitter.com/suami_z
+contact me on my fb page https://fb.com/hanafihassancom/ or twitter at https://twitter.com/suami_z
